@@ -15,6 +15,6 @@ I am an AI major leveraging my academic foundation to pursue a career as a full-
 ### You Can Find My Contact Information Here:
 > - +84 (367) 960 770
 > - duongquochuy190607@gmail.com
-> - (My LinkedIn)[linkedin.com/in/lucasduong19]
-> - (My GitHub)[github.com/DSLucas19]
+> - [My LinkedIn](linkedin.com/in/lucasduong19)
+> - [My GitHub](github.com/DSLucas19)
 
