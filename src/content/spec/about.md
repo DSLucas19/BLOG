@@ -8,7 +8,7 @@ I am an AI major leveraging my academic foundation to pursue a career as a full-
 ::github{repo="saicaca/fuwari"}
 
 ---
-> ### You can find my contact information here.
+### You can find my contact information here.
 > - [Unsplash](https://unsplash.com/)
 > - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
 > - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
