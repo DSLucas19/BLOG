@@ -11,7 +11,6 @@ I am an AI major leveraging my academic foundation to pursue a career as a full-
 > - **Data Visualization & Reporting:** PowerBI, Python(Maplotlib, Seaborn)
 > - **Statistical Analysis:** Hypothesis Testing (A/B Testing), Regression Analysis, Time Series Forecasting
 
----
 ### You Can Find My Contact Information Here:
 > - +84 (367) 960 770
 > - duongquochuy190607@gmail.com
