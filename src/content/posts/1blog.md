@@ -32,6 +32,8 @@ So that is what I'm going to do. Stepping in to college is such a huge milestone
 
 I never wanted to give up, I wanted to become something better. And I will try every ways, every things, no matter the stakes. I want everyone to know my burning passion. I want to become a data scientist.
 
+![apicture](https://raw.githubusercontent.com/DSLucas19/Image/master/image/dashboard%20template.png)
+
 ---
 # Beyond 2025
 
@@ -42,6 +44,7 @@ I want to get into FAANG, I want to live a comfy life.
 I may sound like a kid. But I am **really** determined to do just that.
 
 > Watch me.
+
 
 
 
