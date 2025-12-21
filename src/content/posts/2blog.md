@@ -1,5 +1,5 @@
 ---
-title: Not all failure means failure
+title: Not All Failure Means Failure
 published: 2025-21-12
 description: The story that I shouldn't write about
 tags: [Blog,Life]
@@ -9,7 +9,7 @@ draft: false
 
 Hi, it's me - Huy again. So it has been officially a week since I started to write this blog. Many mixed and overwhelmed emotions has spread throughout my mind. Not only my mind, but in every bits of my life too. This week has been a lots for me: struggling with school work, having problems concentrating in lectures, and constantly feeling behind every one of my classmates. I couldn't say this week was good.
 
-# I fail
+# I fail.
 
 I fail to reach the standard that I always strive to be. The worse news has come truth, that I am not qualified to be accepted as a member of the club that I wholeheartedly wanted to participate in. The feeling? I feel empty, like the whole skyscraper that I built for my future has already gone before I finished my foundation.
 
@@ -28,7 +28,7 @@ I feel anxious everytime. Not everytime, everywhere. The imposter syndrome hits 
 
 # I stand up.
 
-fail, but I don't fall**
+fail, **but I don't fall**
 
 I allow myself to be down, to accept the fact that yes, I am not as great, not as brilliant like how I always thought I am. **But I never allowed myself to quit, to stop trying**. Not that a hard moment ruins an entire life, how dare I to be sorrow when the place that I am standing right now is a cumulative effort of my past self. My past self never stop trying, *so why should I?*
 
@@ -47,5 +47,6 @@ I also document my knowledge in my Obsidian Vault. I like to spend time customiz
 All in all, I know that this might not be the part that I should write into the story, this is the part that I am proud to have, because if wasn't for the stress I gone through, it wouldn't create the strong self that I am right now.
 
 > I will keep trying. My goal is to become a Data Scientist. **I will become a data scientist.**
+
 
 
