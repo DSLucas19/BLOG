@@ -32,7 +32,7 @@ fail, **but I don't fall**
 
 I allow myself to be down, to accept the fact that yes, I am not as great, not as brilliant like how I always thought I am. **But I never allowed myself to quit, to stop trying**. Not that a hard moment ruins an entire life, how dare I to be sorrow when the place that I am standing right now is a cumulative effort of my past self. My past self never stop trying, *so why should I?*
 
-I make, I create, I make actions. I created a Notion Templates selling page ![Here's a link if you want to check it out](https://quochuydotemplates.notion.site/?source=copy\_link)
+I make, I create, I make actions. I created a Notion Templates selling page [Here's a link if you want to check it out](https://quochuydotemplates.notion.site/?source=copy\_link)
 
 ![A picture of my beautiful template](https://raw.githubusercontent.com/DSLucas19/Image/master/image/dashboard%20template.png)
 
@@ -47,6 +47,7 @@ I also document my knowledge in my Obsidian Vault. I like to spend time customiz
 All in all, I know that this might not be the part that I should write into the story, this is the part that I am proud to have, because if wasn't for the stress I gone through, it wouldn't create the strong self that I am right now.
 
 > I will keep trying. My goal is to become a Data Scientist. **I will become a data scientist.**
+
 
 
 
