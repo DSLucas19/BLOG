@@ -1,6 +1,6 @@
 ---
 title: My First Blog
-published: 2024-14-12
+published: 2025-14-12
 description: This is where the story about a teenager with the wildest dream begin.
 tags: [Blog,Life]
 category: Documentation
@@ -43,6 +43,7 @@ I want to get into FAANG, I want to live a comfy life.
 I may sound like a kid. But I am **really** determined to do just that.
 
 > Watch me.
+
 
 
 
